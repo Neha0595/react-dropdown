@@ -33,12 +33,12 @@
   right: 10px;
   top: 14px;
   width: 0;
-  font-size: 20px;
 }
 
 .is-open .Dropdown-arrow {
   border-color: transparent transparent #999;
   border-width: 0 5px 5px;
+  color: white;
 }
 
 .Dropdown-menu {
@@ -69,6 +69,7 @@
   cursor: pointer;
   display: block;
   padding: 8px 10px;
+  font-weight: bold;
 }
 
 .Dropdown-option:last-child {
